@@ -1,0 +1,161 @@
+{
+  "cachedAt": "2020-12-31T23:59:59Z",
+  "generatedAt": "2026-10-27T03:53:27.920Z",
+  "snapshotPolicy": "2020-12-31",
+  "version": "2020-12-31",
+  "source": "foursquare_os_places_kr_pikmin_rules",
+  "categories": {
+    "art_gallery": {
+      "count": 2121,
+      "file": "art_gallery.json"
+    },
+    "zoo": {
+      "count": 115,
+      "file": "zoo.json"
+    },
+    "cinema": {
+      "count": 569,
+      "file": "cinema.json"
+    },
+    "theme_park": {
+      "count": 300,
+      "file": "theme_park.json"
+    },
+    "stadium": {
+      "count": 394,
+      "file": "stadium.json"
+    },
+    "library": {
+      "count": 2933,
+      "file": "library.json"
+    },
+    "restaurant": {
+      "count": 78541,
+      "file": "restaurant.json"
+    },
+    "cafe": {
+      "count": 13814,
+      "file": "cafe.json"
+    },
+    "sweetshop": {
+      "count": 260,
+      "file": "sweetshop.json"
+    },
+    "bakery": {
+      "count": 2583,
+      "file": "bakery.json"
+    },
+    "burger": {
+      "count": 4734,
+      "file": "burger.json"
+    },
+    "italian_restaurant": {
+      "count": 1402,
+      "file": "italian_restaurant.json"
+    },
+    "ramen": {
+      "count": 1987,
+      "file": "ramen.json"
+    },
+    "sushi": {
+      "count": 403,
+      "file": "sushi.json"
+    },
+    "curry": {
+      "count": 227,
+      "file": "curry.json"
+    },
+    "mexican_restaurant": {
+      "count": 295,
+      "file": "mexican_restaurant.json"
+    },
+    "korean_restaurant": {
+      "count": 9833,
+      "file": "korean_restaurant.json"
+    },
+    "pharmacy": {
+      "count": 3054,
+      "file": "pharmacy.json"
+    },
+    "cosmetics": {
+      "count": 4030,
+      "file": "cosmetics.json"
+    },
+    "hair_salon": {
+      "count": 28484,
+      "file": "hair_salon.json"
+    },
+    "clothing_store": {
+      "count": 2720,
+      "file": "clothing_store.json"
+    },
+    "supermarket": {
+      "count": 9926,
+      "file": "supermarket.json"
+    },
+    "convenience": {
+      "count": 16462,
+      "file": "convenience.json"
+    },
+    "stationery": {
+      "count": 1152,
+      "file": "stationery.json"
+    },
+    "hardware": {
+      "count": 827,
+      "file": "hardware.json"
+    },
+    "electronics": {
+      "count": 932,
+      "file": "electronics.json"
+    },
+    "park": {
+      "count": 18185,
+      "file": "park.json"
+    },
+    "forest": {
+      "count": 422,
+      "file": "forest.json"
+    },
+    "waterside": {
+      "count": 12249,
+      "file": "waterside.json"
+    },
+    "beach": {
+      "count": 903,
+      "file": "beach.json"
+    },
+    "station": {
+      "count": 2017,
+      "file": "station.json"
+    },
+    "airport": {
+      "count": 93,
+      "file": "airport.json"
+    },
+    "bus_stop": {
+      "count": 105664,
+      "file": "bus_stop.json"
+    },
+    "hotel": {
+      "count": 2738,
+      "file": "hotel.json"
+    },
+    "post_office": {
+      "count": 2793,
+      "file": "post_office.json"
+    },
+    "university": {
+      "count": 5846,
+      "file": "university.json"
+    },
+    "bridge": {
+      "count": 43035,
+      "file": "bridge.json"
+    },
+    "mountain": {
+      "count": 16567,
+      "file": "mountain.json"
+    }
+  }
+}
