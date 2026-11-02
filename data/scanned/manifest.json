@@ -1,14 +1,14 @@
 {
   "level": 9,
   "approxRadiusKm": 15,
-  "generatedAt": "2026-11-02T05:12:36.928Z",
-  "totalSpots": 2210,
+  "generatedAt": "2026-11-02T05:30:43.118Z",
+  "totalSpots": 2321,
   "totalTiles": 1,
   "tiles": {
     "357cb4": {
-      "count": 640,
-      "sizeKb": 24,
-      "lastScannedAt": "2026-11-02T05:12:36.901Z"
+      "count": 670,
+      "sizeKb": 25,
+      "lastScannedAt": "2026-11-02T05:30:43.073Z"
     }
   }
 }
