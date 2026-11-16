@@ -1,29 +1,29 @@
 {
   "level": 9,
   "approxRadiusKm": 15,
-  "generatedAt": "2026-11-11T02:19:33.456Z",
-  "totalSpots": 39681,
+  "generatedAt": "2026-11-16T03:34:53.012Z",
+  "totalSpots": 27362,
   "totalTiles": 4,
   "tiles": {
-    "357cb4": {
-      "count": 4396,
-      "sizeKb": 157,
-      "lastScannedAt": "2026-11-08T22:32:15.000Z"
-    },
     "357ca4": {
-      "count": 4944,
-      "sizeKb": 190,
-      "lastScannedAt": "2026-11-11T02:19:33.000Z"
-    },
-    "357cbc": {
-      "count": 129,
-      "sizeKb": 5,
-      "lastScannedAt": "2026-11-11T02:17:48.000Z"
+      "count": 3555,
+      "sizeKb": 128,
+      "lastScannedAt": "2026-11-16T02:56:14.000Z"
     },
     "357cac": {
-      "count": 1304,
-      "sizeKb": 47,
-      "lastScannedAt": "2026-11-10T02:22:27.000Z"
+      "count": 1397,
+      "sizeKb": 49,
+      "lastScannedAt": "2026-11-16T03:06:11.000Z"
+    },
+    "357cb4": {
+      "count": 4704,
+      "sizeKb": 159,
+      "lastScannedAt": "2026-11-16T03:34:52.000Z"
+    },
+    "357cbc": {
+      "count": 631,
+      "sizeKb": 20,
+      "lastScannedAt": "2026-11-16T03:03:53.000Z"
     }
   }
 }
